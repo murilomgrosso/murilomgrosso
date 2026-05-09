@@ -1,5 +1,5 @@
 # 👋 Welcome!
-Hi! I'm **Murilo M Grosso**, an **undergraduate Computer Science student** at the **University of São Paulo (USP)** 🎓 
+Hi! I'm **Murilo M Grosso**, an **undergraduate Computer Science student** at **University of São Paulo (USP)** 🎓 
 
 <div>
   <a href="https://www.linkedin.com/in/murilomgrosso/">
